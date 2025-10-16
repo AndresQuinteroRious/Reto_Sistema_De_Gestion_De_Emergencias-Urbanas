@@ -1,6 +1,3 @@
-** Equipo Reto 2 **
-# Adrian Gonzales
-# luz Milena Garzon
 # Andres M Quintero
 
 **Sistema de Gestión de Emergencias Urbanas**
@@ -120,4 +117,5 @@ Integrar Clases Internas y Lambda
 **Server:** Node, Express
 
 **frontent** java html css
+
 **almacenamiento**
